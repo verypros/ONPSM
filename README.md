@@ -6,8 +6,11 @@ The **BEST** ONPS macro there is.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/verypros/ONPSM/refs/heads/main/loader.luau"))
 ```
 
-- Auto startup
-- Auto Shift
+## Features
+
+- Auto Startup
+- Auto Shift 
+- Auto Random Failures (RF)
 - Webhook Alerts
 
 ## Credits
