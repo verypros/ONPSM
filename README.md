@@ -6,6 +6,11 @@ The **BEST** ONPS macro there is.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/verypros/ONPSM/refs/heads/main/loader.luau"))
 ```
 
+## Requirements
+
+- A stable internet connection
+- A good Computer/Laptop
+
 ## Features
 
 - Auto Startup
@@ -18,3 +23,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/verypros/ONPSM/refs/h
 * Developed by Kako
 
 * Tested by quinty
+
+## TODO
+
+- Add more features
+- Make it stable
+- Make better pathing
+- Make it more consistent
