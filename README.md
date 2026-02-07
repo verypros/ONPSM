@@ -3,7 +3,7 @@
 The **BEST** ONPS macro there is.
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/verypros/ONPSM/refs/heads/main/loader.luau"))
+loadstring(game:HttpGet("https://raw.githubusercontent.com/verypros/ONPSM/refs/heads/main/loader.lua"))
 ```
 
 ## Requirements
